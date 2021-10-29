@@ -7,7 +7,4 @@ the Bessel function of the first kind,
 
 and the Neumann function (Besselfunction of the second kind).
 
-For integer orders, please use The "Tp" type. e.g: bessel_j(3.L,std::complex<long double>(-3.3L,9.3L)) << std::endl;  
-
-
-
+For integer orders, please use the "Tp" type. e.g: bessel_j(3.L,std::complex<long double>(-3.3L,9.3L))   
